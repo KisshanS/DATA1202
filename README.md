@@ -15,4 +15,5 @@ To run this notebook, you'll need the following:
 
 Install dependencies using pip:
 
-pip install pandas
+``` bash
+pip install pandas notebook
