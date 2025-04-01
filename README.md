@@ -39,9 +39,6 @@ The notebook includes:
 ## Author 
 
 Kisshan Shanmuganathan
-Professor Omar Altrad
-DATA 1202 - Lab3
-Date : April 1st,2025
 
 ## License
 
