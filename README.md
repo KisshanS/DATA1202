@@ -17,3 +17,39 @@ Install dependencies using pip:
 
 ``` bash
 pip install pandas notebook
+```
+
+### Running the notebook
+
+1. Launch jupyter notebook environment and load `Salaries.csv` file
+2. Run each cell by following the lab instructions within the `Lab3.pynb` file
+
+## Contents
+
+The notebook includes:
+
+-Loading and inspecting a CSV file
+
+-Viewing dataset shape and column names
+
+-Checking data types
+
+-Previewing column content
+
+## Author 
+
+Kisshan Shanmuganathan
+Professor Omar Altrad
+DATA 1202 - Lab3
+Date : April 1st,2025
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgment
+
+Instructor : Omar Altrad
+Dataset : `Salaries.csv`
+
+
