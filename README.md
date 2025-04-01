@@ -40,6 +40,9 @@ The notebook includes:
 
 Kisshan Shanmuganathan
 
+DATA 1202 - Lab 3
+
+April 1st, 2025
 ## License
 
 This project is licensed under the MIT License.
